@@ -1,0 +1,57 @@
+{
+  "medicos": [
+    {
+      "id": "1",
+      "usuario": "doctor1",
+      "clave": "123456"
+    },
+    {
+      "id": "df3286e7-3aee-46f1-8e47-08adb9aacd8e",
+      "nombre": "Juan",
+      "usuario": "juancho",
+      "email": "",
+      "clave": "12"
+    }
+  ],
+  "pacientes": [
+    {
+      "nombre": "Daniel M ALARCONSINI",
+      "cedula": "898956",
+      "fechaExpedicion": "1994-03-19",
+      "id": "fbaa",
+      "medicoId": "1"
+    },
+    {
+      "id": "aed6",
+      "nombre": "soneli",
+      "cedula": "65",
+      "fechaExpedicion": "1990-06-21",
+      "medicoId": "1"
+    },
+    {
+      "nombre": "tomsom",
+      "cedula": "787",
+      "fechaExpedicion": "1960-02-01",
+      "medicoId": "1",
+      "imagen": "",
+      "id": "80a5"
+    },
+    {
+      "nombre": "Dimelo",
+      "cedula": "984",
+      "fechaExpedicion": "1947-02-11",
+      "imagen": "https://drive.google.com/uc?export=view&id=1LjPqFedRGiAYymsUBmS5baOaBj8lcooU",
+      "id": "0431",
+      "medicoId": "1"
+    },
+    {
+      "id": "5050",
+      "nombre": "Abi",
+      "cedula": "354",
+      "fechaExpedicion": "1990-12-12",
+      "medicoId": "df3286e7-3aee-46f1-8e47-08adb9aacd8e",
+      "imagen": "https://drive.google.com/uc?export=view&id=1GzWMd_k5TiUk270JO1PkG-kvFDFH5kID"
+    }
+  ],
+  "imagenes": []
+}
